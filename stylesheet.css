@@ -1,11 +1,14 @@
 body {
-    background-color: gray;
+    background-color: rgb(230,230,230);
 }
 
 p {
-    color: rgb(220,220,220);
+    color: gray;
+	font-family: "sans-serif", Verdana;
 }
 
 h1 { 
-	color: rgb(200,200,200);
+	color: gray;
+	font-family: "sans-serif", Verdana;
+	text-align: center;
 }
